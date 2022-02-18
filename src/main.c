@@ -10,7 +10,7 @@
 #define BATTERY_RAW PORTC0;
 #define BATTERY_SHUNT PORTC1; 
 
-#define DATAPOINT0_X 4.2
+#define DATAPOINT0_X 4.0
 #define DATAPOINT0_Y 100
 
 #define DATAPOINT1_X 3.35
